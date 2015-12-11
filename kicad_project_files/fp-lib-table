@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Hypfer_logo)(type KiCad)(uri "$(KIPRJMOD)/logos/Hypfer_logo/")(options "")(descr ""))
+)
